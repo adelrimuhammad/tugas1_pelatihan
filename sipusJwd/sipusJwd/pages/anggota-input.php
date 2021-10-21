@@ -39,7 +39,7 @@
 		</div>
 		<div class="mb-3">
 			<label for="alamat" class="form-label">alamat</label>
-			<input type="textarea" class="form-control" id="alamat" name="alamat">
+			<input type="textarea" class="form-control" id="alamat" name="alamat" required>
 		</div>
 		<button type="submit" name= "simpan" class="btn btn-primary">Submit</button>
 	</form>
